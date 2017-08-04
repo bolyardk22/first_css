@@ -1,0 +1,68 @@
+body {
+	background: linear-gradient(to top, #c6b8db 20%, white 80%);
+	color: black;
+	font-size: 18px;
+	font-family: Verdana, Geneva, sans-serif;
+}
+
+image {
+	height: 50px;
+	width: 50px;
+}
+
+#theNavBar {
+	position: fixed;
+	left: 0px;
+	top: 0px;
+	height: 100px;
+	width: 100%;
+	background-color: white;
+	margin: 0;
+	padding: 0;
+}
+
+#options li{
+	margin-left: 0;
+	padding: 15;
+	display: inline;
+	list-style-type: none;
+}
+
+a:link, a:visited {
+	font-size: 22px;
+	font-family: Verdana, Geneva, sans-serif;
+	color: #7aad51;
+	text-decoration: none;
+}
+
+a:hover {
+	background-color: #7aad51;
+	color: white;
+}
+
+a:active {
+	background-color: #a8a1b7;
+	color: white;
+
+}
+
+#contactInfo {
+	background: linear-gradient(to top, #c6b8db 20%, white 80%);
+	color: black;
+	font-size: 18px;
+	font-family: Verdana, Geneva, sans-serif;
+}
+
+#aboutInfo {
+	background: linear-gradient(to top, #c6b8db 20%, white 80%);
+	color: black;
+	font-size: 18px;
+	font-family: Verdana, Geneva, sans-serif;
+}
+
+#employmentInfo {
+	background: linear-gradient(to top, #c6b8db 20%, white 80%);
+	color: black;
+	font-size: 18px;
+	font-family: Verdana, Geneva, sans-serif;
+}
